@@ -1,1 +1,2 @@
-# my-first-library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
